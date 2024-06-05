@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uh-kay
-- 👀 I’m interested in building native application with Rust 🦀
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in building native application with Rust 🦀 and Python 🐍
+- 🌱 I’m currently learning Rust and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
