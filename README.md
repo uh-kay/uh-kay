@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @uh-kay
-- 👀 I’m interested in building native application with Rust 🦀 and Python 🐍
-- 🌱 I’m currently learning Rust and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in building embedded development with Rust 🦀
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on IoT projects
 
 <!---
 uh-kay/uh-kay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
